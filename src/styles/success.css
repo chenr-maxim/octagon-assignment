@@ -1,0 +1,7 @@
+.success-container {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-content: center;
+  margin-top: auto;
+}
